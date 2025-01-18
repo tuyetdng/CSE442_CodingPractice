@@ -1,0 +1,34 @@
+﻿@model Lab2_DangThiAnhTuyet.Models.Category
+
+<div class="d-flex justify-content-center align-items-center bg-white" style="min-height: 100vh">
+    <div class="card shadow-lg rounded" style="width: 40rem; border: none;">
+        <div class="card-header bg-primary text-white text-center">
+            <h3 class="mb-0">Edit Category</h3>
+        </div>
+        <div class="card-body">
+            <form asp-action="Edit" asp-controller="Category" enctype="multipart/form-data" method="post">
+                <input type="hidden" name="id" value="@Model.Id" />
+
+                <div class="form-group">
+                    <label for="CategoryName" class="font-weight-bold">Category Name</label>
+                    <input type="text" name="CategoryName" value="@Model.CategoryName" class="form-control rounded-pill" placeholder="Enter category name" required />
+                </div>
+
+                <div class="form-group">
+                    <label for="Description" class="font-weight-bold">Description</label>
+                    <textarea name="Description" class="form-control rounded" rows="3" placeholder="Enter description" required>@Model.Description</textarea>
+                </div>
+
+                <div class="form-group">
+                    <label for="CategoryImage" class="font-weight-bold">Category Image</label>
+                    <input type="file" name="CategoryImage" class="form-control-file" />
+                </div>
+
+                <div class="d-flex justify-content-between mt-4">
+                    <a href="/Category" class="btn btn-outline-secondary rounded-pill">Cancel</a>
+                    <button type="submit" class="btn btn-primary rounded-pill px-4">Save</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,75 @@
+﻿@model Lab2_DangThiAnhTuyet.Models.Device
+<div class="d-flex justify-content-center align-items-center bg-white" style="min-height: 100vh">
+    <div class="card shadow-lg rounded" style="width: 40rem; border: none;">
+        <div class="card-header bg-primary text-white text-center">
+            <h3 class="mb-0">Create Device</h3>
+        </div>
+        <div class="card-body">
+            <form asp-action="Edit" asp-controller="Device" enctype="multipart/form-data" method="post">
+                <div class="form-group">
+                    <label for="DeviceCode" class="font-weight-bold">Device Code</label>
+                    <input type="text" name="DeviceCode" value="@Model.DeviceCode" class="form-control rounded-pill" placeholder="Enter device name" required />
+                </div>
+
+                <div class="form-group">
+                    <label for="DeviceName" class="font-weight-bold">Device Name</label>
+                    <input type="text" name="DeviceName" value="@Model.DeviceName" class="form-control rounded-pill" placeholder="Enter device name" required />
+                </div>
+
+                <div class="form-group">
+                    <label for="EquipmentStatus" class="font-weight-bold">Equipment Status</label>
+                    <select name="EquipmentStatus" class="form-control rounded-pill">
+                        @foreach (var status in Enum.GetValues(typeof(Lab2_DangThiAnhTuyet.Enums.Status)))
+                        {
+                            if (status.Equals(Model.EquipmentStatus))
+                            {
+                                <option value="@status" selected>@status</option>
+                            }
+                            else
+                            {
+                                <option value="@status">@status</option>
+                            }
+                        }
+                    </select>
+                </div>
+
+                <div class="form-group">
+                    <label for="CategoryId" class="font-weight-bold">Category</label>
+                    <select name="CategoryId" class="form-control rounded-pill">
+                        <option value="">-- Select Category --</option>
+                        @foreach (var category in ViewBag.Categories as List<Category>)
+                        {
+                            <option value="@category.Id">@category.CategoryName</option>
+                        }
+                    </select>
+                </div>
+
+                <div class="form-group">
+                    <label for="EmployeeId" class="font-weight-bold">Assigned Employee</label>
+                    <select name="EmployeeId" class="form-control rounded-pill">
+                        <option value="">-- Select Employee --</option>
+                        @foreach (var user in ViewBag.Users as List<User>)
+                        {
+                            <option value="@user.Id">@user.FullName</option>
+                        }
+                    </select>
+                </div>
+
+                <div class="form-group">
+                    <label for="DateOfEntry" class="font-weight-bold">Date of Entry</label>
+                    <input type="date" name="DateOfEntry" value="@Model.DateOfEntry.ToString("yyyy-MM-dd")" class="form-control rounded-pill" required />
+                </div>
+
+                <div class="form-group">
+                    <label for="DeviceImage" class="font-weight-bold">Device Image</label>
+                    <input type="file" name="DeviceImage" class="form-control-file" />
+                </div>
+
+                <div class="d-flex justify-content-between mt-4">
+                    <a href="/Device" class="btn btn-outline-secondary rounded-pill">Cancel</a>
+                    <button type="submit" class="btn btn-primary rounded-pill px-4">Save</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>

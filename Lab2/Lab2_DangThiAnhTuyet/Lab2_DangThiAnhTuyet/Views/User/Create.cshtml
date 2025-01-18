@@ -1,0 +1,68 @@
+﻿<div class="d-flex justify-content-center align-items-center bg-white" style="min-height: 100vh">
+    <div class="card shadow-lg rounded" style="width: 40rem; border: none;">
+        <div class="card-header bg-primary text-white text-center">
+            <h3 class="mb-0">Create User</h3>
+        </div>
+        <div class="card-body">
+            <form asp-action="Create" asp-controller="User" enctype="multipart/form-data" method="post">
+                <div class="form-group">
+                    <label for="UserName" class="font-weight-bold">User Name</label>
+                    <input type="text" name="UserName" value="@Model.UserName" class="form-control rounded-pill" placeholder="Enter username" required />
+                </div>
+
+                <div class="form-group">
+                    <label for="Password" class="font-weight-bold">Password</label>
+                    <input type=text" name="Password" value="@Model.Password" class="form-control rounded-pill" placeholder="Enter password" required />
+                </div>
+
+                <div class="form-group">
+                    <label for="FullName" class="font-weight-bold">Full Name</label>
+                    <input type="text" name="FullName" value="@Model.FullName" class="form-control rounded-pill" placeholder="Enter full name" required />
+                </div>
+
+                <div class="form-group">
+                    <label for="Email" class="font-weight-bold">Email</label>
+                    <input type="email" name="Email" value="@Model.Email" class="form-control rounded-pill" placeholder="Enter email" required />
+                </div>
+
+                <div class="form-group">
+                    <label for="PhoneNumber" class="font-weight-bold">Phone Number</label>
+                    <input type="text" name="PhoneNumber" value="@Model.PhoneNumber" class="form-control rounded-pill" placeholder="Enter phone number" required />
+                </div>
+
+                <div class="form-group">
+                    <label for="Address" class="font-weight-bold">Address</label>
+                    <textarea name="Address" class="form-control rounded" rows="3" placeholder="Enter address">@Model.Address</textarea>
+                </div>
+
+                <div class="form-group">
+                    <label for="Gender" class="font-weight-bold">Gender</label>
+                    <select name="Gender" class="form-control rounded-pill">
+                    @foreach (var gender in Enum.GetValues(typeof(Lab2_DangThiAnhTuyet.Enums.Gender)))
+                    {
+                        if (gender.Equals(Model.Gender))
+                        {
+                                <option value="@gender" selected>@gender</option>
+                        }
+                        else
+                        {
+                                <option value="@gender">@gender</option>
+                        }
+                    }
+                    </select>
+
+                </div>
+                <div class="form-group">
+                    <label for="Avatar" class="font-weight-bold">Avatar</label>
+                    <input type="file" name="Avatar" class="form-control-file" />
+
+                </div>
+
+                <div class="d-flex justify-content-between mt-4">
+                    <a href="/User" class="btn btn-outline-secondary rounded-pill">Cancel</a>
+                    <button type="submit" class="btn btn-primary rounded-pill px-4">Create New User</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
