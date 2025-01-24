@@ -12,3 +12,17 @@ D:\DulieuE\Documents\CSE 422 _ Coding Practice\Lab2\Lab3\obj\Debug\net8.0\refint
 D:\DulieuE\Documents\CSE 422 _ Coding Practice\Lab2\Lab3\obj\Debug\net8.0\Lab3.pdb
 D:\DulieuE\Documents\CSE 422 _ Coding Practice\Lab2\Lab3\obj\Debug\net8.0\Lab3.genruntimeconfig.cache
 D:\DulieuE\Documents\CSE 422 _ Coding Practice\Lab2\Lab3\obj\Debug\net8.0\ref\Lab3.dll
+D:\DulieuE\Documents\CSE 422 _ Coding Practice\Lab3\Lab3\bin\Debug\net8.0\Lab3.exe
+D:\DulieuE\Documents\CSE 422 _ Coding Practice\Lab3\Lab3\bin\Debug\net8.0\Lab3.deps.json
+D:\DulieuE\Documents\CSE 422 _ Coding Practice\Lab3\Lab3\bin\Debug\net8.0\Lab3.runtimeconfig.json
+D:\DulieuE\Documents\CSE 422 _ Coding Practice\Lab3\Lab3\bin\Debug\net8.0\Lab3.dll
+D:\DulieuE\Documents\CSE 422 _ Coding Practice\Lab3\Lab3\bin\Debug\net8.0\Lab3.pdb
+D:\DulieuE\Documents\CSE 422 _ Coding Practice\Lab3\Lab3\obj\Debug\net8.0\Lab3.GeneratedMSBuildEditorConfig.editorconfig
+D:\DulieuE\Documents\CSE 422 _ Coding Practice\Lab3\Lab3\obj\Debug\net8.0\Lab3.AssemblyInfoInputs.cache
+D:\DulieuE\Documents\CSE 422 _ Coding Practice\Lab3\Lab3\obj\Debug\net8.0\Lab3.AssemblyInfo.cs
+D:\DulieuE\Documents\CSE 422 _ Coding Practice\Lab3\Lab3\obj\Debug\net8.0\Lab3.csproj.CoreCompileInputs.cache
+D:\DulieuE\Documents\CSE 422 _ Coding Practice\Lab3\Lab3\obj\Debug\net8.0\Lab3.dll
+D:\DulieuE\Documents\CSE 422 _ Coding Practice\Lab3\Lab3\obj\Debug\net8.0\refint\Lab3.dll
+D:\DulieuE\Documents\CSE 422 _ Coding Practice\Lab3\Lab3\obj\Debug\net8.0\Lab3.pdb
+D:\DulieuE\Documents\CSE 422 _ Coding Practice\Lab3\Lab3\obj\Debug\net8.0\Lab3.genruntimeconfig.cache
+D:\DulieuE\Documents\CSE 422 _ Coding Practice\Lab3\Lab3\obj\Debug\net8.0\ref\Lab3.dll

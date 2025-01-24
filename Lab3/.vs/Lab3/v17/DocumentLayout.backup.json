@@ -1,65 +1,65 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\DulieuE\\Documents\\CSE 422 _ Coding Practice\\Lab2\\Lab3\\",
+  "WorkspaceRootPath": "D:\\DulieuE\\Documents\\CSE 422 _ Coding Practice\\Lab3\\Lab3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EF50CA95-14F8-43E7-98ED-064A83CE8129}|Lab3.csproj|d:\\dulieue\\documents\\cse 422 _ coding practice\\lab2\\lab3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EF50CA95-14F8-43E7-98ED-064A83CE8129}|Lab3.csproj|d:\\dulieue\\documents\\cse 422 _ coding practice\\lab3\\lab3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EF50CA95-14F8-43E7-98ED-064A83CE8129}|Lab3.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EF50CA95-14F8-43E7-98ED-064A83CE8129}|Lab3.csproj|d:\\dulieue\\documents\\cse 422 _ coding practice\\lab2\\lab3\\notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EF50CA95-14F8-43E7-98ED-064A83CE8129}|Lab3.csproj|solutionrelative:notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EF50CA95-14F8-43E7-98ED-064A83CE8129}|Lab3.csproj|d:\\dulieue\\documents\\cse 422 _ coding practice\\lab2\\lab3\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EF50CA95-14F8-43E7-98ED-064A83CE8129}|Lab3.csproj|solutionrelative:library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EF50CA95-14F8-43E7-98ED-064A83CE8129}|Lab3.csproj|d:\\dulieue\\documents\\cse 422 _ coding practice\\lab2\\lab3\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EF50CA95-14F8-43E7-98ED-064A83CE8129}|Lab3.csproj|solutionrelative:member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EF50CA95-14F8-43E7-98ED-064A83CE8129}|Lab3.csproj|d:\\dulieue\\documents\\cse 422 _ coding practice\\lab2\\lab3\\bookrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EF50CA95-14F8-43E7-98ED-064A83CE8129}|Lab3.csproj|solutionrelative:bookrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EF50CA95-14F8-43E7-98ED-064A83CE8129}|Lab3.csproj|d:\\dulieue\\documents\\cse 422 _ coding practice\\lab2\\lab3\\bookclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EF50CA95-14F8-43E7-98ED-064A83CE8129}|Lab3.csproj|solutionrelative:bookclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EF50CA95-14F8-43E7-98ED-064A83CE8129}|Lab3.csproj|d:\\dulieue\\documents\\cse 422 _ coding practice\\lab2\\lab3\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EF50CA95-14F8-43E7-98ED-064A83CE8129}|Lab3.csproj|solutionrelative:book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EF50CA95-14F8-43E7-98ED-064A83CE8129}|Lab3.csproj|d:\\dulieue\\documents\\cse 422 _ coding practice\\lab2\\lab3\\advancednotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EF50CA95-14F8-43E7-98ED-064A83CE8129}|Lab3.csproj|solutionrelative:advancednotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EF50CA95-14F8-43E7-98ED-064A83CE8129}|Lab3.csproj|d:\\dulieue\\documents\\cse 422 _ coding practice\\lab2\\lab3\\librarycard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EF50CA95-14F8-43E7-98ED-064A83CE8129}|Lab3.csproj|solutionrelative:librarycard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EF50CA95-14F8-43E7-98ED-064A83CE8129}|Lab3.csproj|d:\\dulieue\\documents\\cse 422 _ coding practice\\lab2\\lab3\\borrowtransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EF50CA95-14F8-43E7-98ED-064A83CE8129}|Lab3.csproj|solutionrelative:borrowtransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EF50CA95-14F8-43E7-98ED-064A83CE8129}|Lab3.csproj|d:\\dulieue\\documents\\cse 422 _ coding practice\\lab2\\lab3\\returntransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EF50CA95-14F8-43E7-98ED-064A83CE8129}|Lab3.csproj|solutionrelative:returntransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EF50CA95-14F8-43E7-98ED-064A83CE8129}|Lab3.csproj|d:\\dulieue\\documents\\cse 422 _ coding practice\\lab2\\lab3\\premiummember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EF50CA95-14F8-43E7-98ED-064A83CE8129}|Lab3.csproj|d:\\dulieue\\documents\\cse 422 _ coding practice\\lab3\\lab3\\premiummember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EF50CA95-14F8-43E7-98ED-064A83CE8129}|Lab3.csproj|solutionrelative:premiummember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EF50CA95-14F8-43E7-98ED-064A83CE8129}|Lab3.csproj|d:\\dulieue\\documents\\cse 422 _ coding practice\\lab2\\lab3\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EF50CA95-14F8-43E7-98ED-064A83CE8129}|Lab3.csproj|solutionrelative:transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EF50CA95-14F8-43E7-98ED-064A83CE8129}|Lab3.csproj|d:\\dulieue\\documents\\cse 422 _ coding practice\\lab2\\lab3\\imemberactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EF50CA95-14F8-43E7-98ED-064A83CE8129}|Lab3.csproj|d:\\dulieue\\documents\\cse 422 _ coding practice\\lab3\\lab3\\imemberactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EF50CA95-14F8-43E7-98ED-064A83CE8129}|Lab3.csproj|solutionrelative:imemberactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EF50CA95-14F8-43E7-98ED-064A83CE8129}|Lab3.csproj|d:\\dulieue\\documents\\cse 422 _ coding practice\\lab2\\lab3\\iprintable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EF50CA95-14F8-43E7-98ED-064A83CE8129}|Lab3.csproj|d:\\dulieue\\documents\\cse 422 _ coding practice\\lab3\\lab3\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF50CA95-14F8-43E7-98ED-064A83CE8129}|Lab3.csproj|solutionrelative:member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF50CA95-14F8-43E7-98ED-064A83CE8129}|Lab3.csproj|d:\\dulieue\\documents\\cse 422 _ coding practice\\lab3\\lab3\\notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF50CA95-14F8-43E7-98ED-064A83CE8129}|Lab3.csproj|solutionrelative:notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF50CA95-14F8-43E7-98ED-064A83CE8129}|Lab3.csproj|d:\\dulieue\\documents\\cse 422 _ coding practice\\lab3\\lab3\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF50CA95-14F8-43E7-98ED-064A83CE8129}|Lab3.csproj|solutionrelative:library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF50CA95-14F8-43E7-98ED-064A83CE8129}|Lab3.csproj|d:\\dulieue\\documents\\cse 422 _ coding practice\\lab3\\lab3\\bookrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF50CA95-14F8-43E7-98ED-064A83CE8129}|Lab3.csproj|solutionrelative:bookrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF50CA95-14F8-43E7-98ED-064A83CE8129}|Lab3.csproj|d:\\dulieue\\documents\\cse 422 _ coding practice\\lab3\\lab3\\bookclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF50CA95-14F8-43E7-98ED-064A83CE8129}|Lab3.csproj|solutionrelative:bookclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF50CA95-14F8-43E7-98ED-064A83CE8129}|Lab3.csproj|d:\\dulieue\\documents\\cse 422 _ coding practice\\lab3\\lab3\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF50CA95-14F8-43E7-98ED-064A83CE8129}|Lab3.csproj|solutionrelative:book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF50CA95-14F8-43E7-98ED-064A83CE8129}|Lab3.csproj|d:\\dulieue\\documents\\cse 422 _ coding practice\\lab3\\lab3\\advancednotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF50CA95-14F8-43E7-98ED-064A83CE8129}|Lab3.csproj|solutionrelative:advancednotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF50CA95-14F8-43E7-98ED-064A83CE8129}|Lab3.csproj|d:\\dulieue\\documents\\cse 422 _ coding practice\\lab3\\lab3\\librarycard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF50CA95-14F8-43E7-98ED-064A83CE8129}|Lab3.csproj|solutionrelative:librarycard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF50CA95-14F8-43E7-98ED-064A83CE8129}|Lab3.csproj|d:\\dulieue\\documents\\cse 422 _ coding practice\\lab3\\lab3\\borrowtransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF50CA95-14F8-43E7-98ED-064A83CE8129}|Lab3.csproj|solutionrelative:borrowtransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF50CA95-14F8-43E7-98ED-064A83CE8129}|Lab3.csproj|d:\\dulieue\\documents\\cse 422 _ coding practice\\lab3\\lab3\\returntransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF50CA95-14F8-43E7-98ED-064A83CE8129}|Lab3.csproj|solutionrelative:returntransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF50CA95-14F8-43E7-98ED-064A83CE8129}|Lab3.csproj|d:\\dulieue\\documents\\cse 422 _ coding practice\\lab3\\lab3\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF50CA95-14F8-43E7-98ED-064A83CE8129}|Lab3.csproj|solutionrelative:transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF50CA95-14F8-43E7-98ED-064A83CE8129}|Lab3.csproj|d:\\dulieue\\documents\\cse 422 _ coding practice\\lab3\\lab3\\iprintable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EF50CA95-14F8-43E7-98ED-064A83CE8129}|Lab3.csproj|solutionrelative:iprintable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -82,101 +82,96 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "BookRecord.cs",
-              "DocumentMoniker": "D:\\DulieuE\\Documents\\CSE 422 _ Coding Practice\\Lab2\\Lab3\\BookRecord.cs",
+              "DocumentMoniker": "D:\\DulieuE\\Documents\\CSE 422 _ Coding Practice\\Lab3\\Lab3\\BookRecord.cs",
               "RelativeDocumentMoniker": "BookRecord.cs",
-              "ToolTip": "D:\\DulieuE\\Documents\\CSE 422 _ Coding Practice\\Lab2\\Lab3\\BookRecord.cs",
+              "ToolTip": "D:\\DulieuE\\Documents\\CSE 422 _ Coding Practice\\Lab3\\Lab3\\BookRecord.cs",
               "RelativeToolTip": "BookRecord.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T10:05:40.736Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "BookClass.cs",
-              "DocumentMoniker": "D:\\DulieuE\\Documents\\CSE 422 _ Coding Practice\\Lab2\\Lab3\\BookClass.cs",
-              "RelativeDocumentMoniker": "BookClass.cs",
-              "ToolTip": "D:\\DulieuE\\Documents\\CSE 422 _ Coding Practice\\Lab2\\Lab3\\BookClass.cs",
-              "RelativeToolTip": "BookClass.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T10:00:47.774Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "LibraryCard.cs",
-              "DocumentMoniker": "D:\\DulieuE\\Documents\\CSE 422 _ Coding Practice\\Lab2\\Lab3\\LibraryCard.cs",
-              "RelativeDocumentMoniker": "LibraryCard.cs",
-              "ToolTip": "D:\\DulieuE\\Documents\\CSE 422 _ Coding Practice\\Lab2\\Lab3\\LibraryCard.cs",
-              "RelativeToolTip": "LibraryCard.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAqwCIAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T09:40:59.789Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-21T10:05:40.736Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "AdvancedNotificationService.cs",
-              "DocumentMoniker": "D:\\DulieuE\\Documents\\CSE 422 _ Coding Practice\\Lab2\\Lab3\\AdvancedNotificationService.cs",
-              "RelativeDocumentMoniker": "AdvancedNotificationService.cs",
-              "ToolTip": "D:\\DulieuE\\Documents\\CSE 422 _ Coding Practice\\Lab2\\Lab3\\AdvancedNotificationService.cs",
-              "RelativeToolTip": "AdvancedNotificationService.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Title": "BookClass.cs",
+              "DocumentMoniker": "D:\\DulieuE\\Documents\\CSE 422 _ Coding Practice\\Lab3\\Lab3\\BookClass.cs",
+              "RelativeDocumentMoniker": "BookClass.cs",
+              "ToolTip": "D:\\DulieuE\\Documents\\CSE 422 _ Coding Practice\\Lab3\\Lab3\\BookClass.cs",
+              "RelativeToolTip": "BookClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-18T07:57:10.027Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-21T10:00:47.774Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 10,
+              "Title": "LibraryCard.cs",
+              "DocumentMoniker": "D:\\DulieuE\\Documents\\CSE 422 _ Coding Practice\\Lab3\\Lab3\\LibraryCard.cs",
+              "RelativeDocumentMoniker": "LibraryCard.cs",
+              "ToolTip": "D:\\DulieuE\\Documents\\CSE 422 _ Coding Practice\\Lab3\\Lab3\\LibraryCard.cs",
+              "RelativeToolTip": "LibraryCard.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAqwCIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T09:40:59.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AdvancedNotificationService.cs",
+              "DocumentMoniker": "D:\\DulieuE\\Documents\\CSE 422 _ Coding Practice\\Lab3\\Lab3\\AdvancedNotificationService.cs",
+              "RelativeDocumentMoniker": "AdvancedNotificationService.cs",
+              "ToolTip": "D:\\DulieuE\\Documents\\CSE 422 _ Coding Practice\\Lab3\\Lab3\\AdvancedNotificationService.cs",
+              "RelativeToolTip": "AdvancedNotificationService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T07:57:10.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "NotificationService.cs",
-              "DocumentMoniker": "D:\\DulieuE\\Documents\\CSE 422 _ Coding Practice\\Lab2\\Lab3\\NotificationService.cs",
+              "DocumentMoniker": "D:\\DulieuE\\Documents\\CSE 422 _ Coding Practice\\Lab3\\Lab3\\NotificationService.cs",
               "RelativeDocumentMoniker": "NotificationService.cs",
-              "ToolTip": "D:\\DulieuE\\Documents\\CSE 422 _ Coding Practice\\Lab2\\Lab3\\NotificationService.cs",
+              "ToolTip": "D:\\DulieuE\\Documents\\CSE 422 _ Coding Practice\\Lab3\\Lab3\\NotificationService.cs",
               "RelativeToolTip": "NotificationService.cs",
               "ViewState": "AgIAABgAAAAAAAAAAAAgwCUAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-18T07:55:28.566Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-18T07:55:28.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Library.cs",
+              "DocumentMoniker": "D:\\DulieuE\\Documents\\CSE 422 _ Coding Practice\\Lab3\\Lab3\\Library.cs",
+              "RelativeDocumentMoniker": "Library.cs",
+              "ToolTip": "D:\\DulieuE\\Documents\\CSE 422 _ Coding Practice\\Lab3\\Lab3\\Library.cs",
+              "RelativeToolTip": "Library.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwCoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T07:40:24.426Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Library.cs",
-              "DocumentMoniker": "D:\\DulieuE\\Documents\\CSE 422 _ Coding Practice\\Lab2\\Lab3\\Library.cs",
-              "RelativeDocumentMoniker": "Library.cs",
-              "ToolTip": "D:\\DulieuE\\Documents\\CSE 422 _ Coding Practice\\Lab2\\Lab3\\Library.cs",
-              "RelativeToolTip": "Library.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAxwCoAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-18T07:40:24.426Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
               "Title": "IMemberActions.cs",
-              "DocumentMoniker": "D:\\DulieuE\\Documents\\CSE 422 _ Coding Practice\\Lab2\\Lab3\\IMemberActions.cs",
+              "DocumentMoniker": "D:\\DulieuE\\Documents\\CSE 422 _ Coding Practice\\Lab3\\Lab3\\IMemberActions.cs",
               "RelativeDocumentMoniker": "IMemberActions.cs",
-              "ToolTip": "D:\\DulieuE\\Documents\\CSE 422 _ Coding Practice\\Lab2\\Lab3\\IMemberActions.cs",
+              "ToolTip": "D:\\DulieuE\\Documents\\CSE 422 _ Coding Practice\\Lab3\\Lab3\\IMemberActions.cs",
               "RelativeToolTip": "IMemberActions.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-18T07:26:11.752Z"
+              "WhenOpened": "2025-01-18T07:26:11.752Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
               "Title": "IPrintable.cs",
-              "DocumentMoniker": "D:\\DulieuE\\Documents\\CSE 422 _ Coding Practice\\Lab2\\Lab3\\IPrintable.cs",
+              "DocumentMoniker": "D:\\DulieuE\\Documents\\CSE 422 _ Coding Practice\\Lab3\\Lab3\\IPrintable.cs",
               "RelativeDocumentMoniker": "IPrintable.cs",
-              "ToolTip": "D:\\DulieuE\\Documents\\CSE 422 _ Coding Practice\\Lab2\\Lab3\\IPrintable.cs",
+              "ToolTip": "D:\\DulieuE\\Documents\\CSE 422 _ Coding Practice\\Lab3\\Lab3\\IPrintable.cs",
               "RelativeToolTip": "IPrintable.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -184,11 +179,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "ReturnTransaction.cs",
-              "DocumentMoniker": "D:\\DulieuE\\Documents\\CSE 422 _ Coding Practice\\Lab2\\Lab3\\ReturnTransaction.cs",
+              "DocumentMoniker": "D:\\DulieuE\\Documents\\CSE 422 _ Coding Practice\\Lab3\\Lab3\\ReturnTransaction.cs",
               "RelativeDocumentMoniker": "ReturnTransaction.cs",
-              "ToolTip": "D:\\DulieuE\\Documents\\CSE 422 _ Coding Practice\\Lab2\\Lab3\\ReturnTransaction.cs",
+              "ToolTip": "D:\\DulieuE\\Documents\\CSE 422 _ Coding Practice\\Lab3\\Lab3\\ReturnTransaction.cs",
               "RelativeToolTip": "ReturnTransaction.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -196,11 +191,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "BorrowTransaction.cs",
-              "DocumentMoniker": "D:\\DulieuE\\Documents\\CSE 422 _ Coding Practice\\Lab2\\Lab3\\BorrowTransaction.cs",
+              "DocumentMoniker": "D:\\DulieuE\\Documents\\CSE 422 _ Coding Practice\\Lab3\\Lab3\\BorrowTransaction.cs",
               "RelativeDocumentMoniker": "BorrowTransaction.cs",
-              "ToolTip": "D:\\DulieuE\\Documents\\CSE 422 _ Coding Practice\\Lab2\\Lab3\\BorrowTransaction.cs",
+              "ToolTip": "D:\\DulieuE\\Documents\\CSE 422 _ Coding Practice\\Lab3\\Lab3\\BorrowTransaction.cs",
               "RelativeToolTip": "BorrowTransaction.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -208,11 +203,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "Transaction.cs",
-              "DocumentMoniker": "D:\\DulieuE\\Documents\\CSE 422 _ Coding Practice\\Lab2\\Lab3\\Transaction.cs",
+              "DocumentMoniker": "D:\\DulieuE\\Documents\\CSE 422 _ Coding Practice\\Lab3\\Lab3\\Transaction.cs",
               "RelativeDocumentMoniker": "Transaction.cs",
-              "ToolTip": "D:\\DulieuE\\Documents\\CSE 422 _ Coding Practice\\Lab2\\Lab3\\Transaction.cs",
+              "ToolTip": "D:\\DulieuE\\Documents\\CSE 422 _ Coding Practice\\Lab3\\Lab3\\Transaction.cs",
               "RelativeToolTip": "Transaction.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -222,52 +217,52 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\DulieuE\\Documents\\CSE 422 _ Coding Practice\\Lab2\\Lab3\\Program.cs",
+              "DocumentMoniker": "D:\\DulieuE\\Documents\\CSE 422 _ Coding Practice\\Lab3\\Lab3\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\DulieuE\\Documents\\CSE 422 _ Coding Practice\\Lab2\\Lab3\\Program.cs*",
-              "RelativeToolTip": "Program.cs*",
-              "ViewState": "AgIAAEsAAAAAAAAAAAAgwFgAAAApAAAAAAAAAA==",
+              "ToolTip": "D:\\DulieuE\\Documents\\CSE 422 _ Coding Practice\\Lab3\\Lab3\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAgwFUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-18T06:27:58.115Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 1,
               "Title": "PremiumMember.cs",
-              "DocumentMoniker": "D:\\DulieuE\\Documents\\CSE 422 _ Coding Practice\\Lab2\\Lab3\\PremiumMember.cs",
+              "DocumentMoniker": "D:\\DulieuE\\Documents\\CSE 422 _ Coding Practice\\Lab3\\Lab3\\PremiumMember.cs",
               "RelativeDocumentMoniker": "PremiumMember.cs",
-              "ToolTip": "D:\\DulieuE\\Documents\\CSE 422 _ Coding Practice\\Lab2\\Lab3\\PremiumMember.cs",
+              "ToolTip": "D:\\DulieuE\\Documents\\CSE 422 _ Coding Practice\\Lab3\\Lab3\\PremiumMember.cs",
               "RelativeToolTip": "PremiumMember.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAxwBcAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-18T06:51:53.135Z"
+              "WhenOpened": "2025-01-18T06:51:53.135Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Member.cs",
-              "DocumentMoniker": "D:\\DulieuE\\Documents\\CSE 422 _ Coding Practice\\Lab2\\Lab3\\Member.cs",
+              "DocumentMoniker": "D:\\DulieuE\\Documents\\CSE 422 _ Coding Practice\\Lab3\\Lab3\\Member.cs",
               "RelativeDocumentMoniker": "Member.cs",
-              "ToolTip": "D:\\DulieuE\\Documents\\CSE 422 _ Coding Practice\\Lab2\\Lab3\\Member.cs",
+              "ToolTip": "D:\\DulieuE\\Documents\\CSE 422 _ Coding Practice\\Lab3\\Lab3\\Member.cs",
               "RelativeToolTip": "Member.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAcwB8AAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAAIwBQAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-18T06:49:45.66Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Book.cs",
-              "DocumentMoniker": "D:\\DulieuE\\Documents\\CSE 422 _ Coding Practice\\Lab2\\Lab3\\Book.cs",
+              "DocumentMoniker": "D:\\DulieuE\\Documents\\CSE 422 _ Coding Practice\\Lab3\\Lab3\\Book.cs",
               "RelativeDocumentMoniker": "Book.cs",
-              "ToolTip": "D:\\DulieuE\\Documents\\CSE 422 _ Coding Practice\\Lab2\\Lab3\\Book.cs",
+              "ToolTip": "D:\\DulieuE\\Documents\\CSE 422 _ Coding Practice\\Lab3\\Lab3\\Book.cs",
               "RelativeToolTip": "Book.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAADwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-18T06:28:30.934Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-18T06:28:30.934Z"
             }
           ]
         }

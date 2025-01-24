@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Lab3
 {
-    class PremiumMember : Member, IMemberActions
+    class PremiumMember : Member
     {
         public DateTime MembershipExpiry { get; set; }
         public int MaxBooksAllowed { get; set; }   
@@ -25,6 +25,7 @@ namespace Lab3
         {
             Console.WriteLine($"Book '{book.Title}' borrowed by {Name}");
         }
+        
 
         public void ReturnBook(Book book)
         {
